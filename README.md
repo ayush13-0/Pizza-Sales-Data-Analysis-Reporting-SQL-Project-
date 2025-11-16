@@ -65,20 +65,10 @@ The SQL file contains more than 40 business-focused queries, including:
 - ✔ Average Order Value (AOV)
 - ✔ CTEs and window function analyses
 
-- Ranking pizzas by revenue
-- Running totals
-- Percentage contributions
-- This collection of queries helps provide insights that a restaurant might use for inventory planning, menu adjustments, marketing, and staffing.
-
-📁 Project Structure
-pizza_sales_sql_project/
-│
-├── data/                     # (Optional) CSV datasets
-│
-├── sql/
-│   ├── pizzahut_database.sql    # Your SQL schema + analysis queries
-│
-├── README.md
+- ✔ Ranking pizzas by revenue
+- ✔ Running totals
+- ✔ Percentage contributions
+- ✔ This collection of queries helps provide insights that a restaurant might use for inventory planning, menu adjustments, marketing, and staffing.
 
 👨‍💻 Developed By
 -- Ayush
