@@ -54,16 +54,16 @@ The SQL file creates and uses a database named pizzahut, containing the followin
   
 # 📊 Key Analyses Performed
 The SQL file contains more than 40 business-focused queries, including:
-✔ Total revenue generated
+- ✔ Total revenue generated
 # SELECT SUM(order_details.quantity * pizzas.price) AS total_sales
-✔ Top-selling and least-selling pizzas
-✔ Category-wise revenue and order distribution
-✔ Pizza size performance analysis
-✔ Daily, weekly & monthly sales trends
-✔ Peak ordering hours
-✔ Revenue contribution by pizza type
-✔ Average Order Value (AOV)
-✔ CTEs and window function analyses
+- ✔ Top-selling and least-selling pizzas
+- ✔ Category-wise revenue and order distribution
+- ✔ Pizza size performance analysis
+- ✔ Daily, weekly & monthly sales trends
+- ✔ Peak ordering hours
+- ✔ Revenue contribution by pizza type
+- ✔ Average Order Value (AOV)
+- ✔ CTEs and window function analyses
 
 - Ranking pizzas by revenue
 - Running totals
